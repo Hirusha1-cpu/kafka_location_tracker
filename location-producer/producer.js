@@ -13,8 +13,8 @@ async function simulateVehicleMovement() {
   await producer.connect();
   
   // Starting position (example: New York City)
-  let latitude = 40.7128;
-  let longitude = -74.0060;
+  let latitude = 6.927079;
+  let longitude = 79.861244;
 
   setInterval(async () => {
     // Simulate movement by slightly changing coordinates
