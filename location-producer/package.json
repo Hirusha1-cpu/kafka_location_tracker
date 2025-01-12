@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "kafkajs": "^2.2.4"
+    "@serialport/parser-readline": "^13.0.0",
+    "geolocation": "^0.2.0",
+    "kafkajs": "^2.2.4",
+    "node-gps": "^0.0.1",
+    "serialport": "^13.0.0"
   }
 }
