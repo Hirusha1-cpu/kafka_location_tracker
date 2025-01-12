@@ -1,0 +1,14 @@
+
+.app-container {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Reset default body margin */
+body {
+  margin: 0;
+  padding: 0;
+}
